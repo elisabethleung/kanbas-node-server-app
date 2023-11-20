@@ -1,0 +1,139 @@
+[
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+
+  {
+    "_id": "A401",
+    "title": "Capsule Design Task",
+    "course": "RS104",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A402",
+    "title": "Orbital Math",
+    "course": "RS104",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A403",
+    "title": "Systems Functions Exam",
+    "course": "RS104",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+
+  {
+    "_id": "A501",
+    "title": "Seat Design Task",
+    "course": "RS105",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A502",
+    "title": "Orbital Calculus",
+    "course": "RS105",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  },
+  {
+    "_id": "A503",
+    "title": "Systems Organization Quiz",
+    "course": "RS105",
+    "description": "Introduction to this course & basic principles",
+    "dueDate": "2023-02-22",
+    "availableFromDate": "2023-02-01",
+    "availableUntilDate":"2023-02-23"
+  }
+]
